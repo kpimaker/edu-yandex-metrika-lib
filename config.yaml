@@ -1,0 +1,4 @@
+# токен для доступов статистики моего аккаунта в Я.Метрике
+metrika:
+  token: Ag...
+  owner: username (optional)
